@@ -1,0 +1,26 @@
+{
+    "id": "1F9AFBBC",
+    "path": "F:/DataSci/Mids lab exam/Mid_analysis.R",
+    "project_path": "Mid_analysis.R",
+    "type": "r_source",
+    "hash": "4071063926",
+    "contents": "",
+    "dirty": false,
+    "created": 1763091003024.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "93,15",
+        "scrollLine": "86"
+    },
+    "folds": "0|12|18|20|\n19|14|48|0|\n49|26|95|0|\n",
+    "lastKnownWriteTime": 1763093127,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763093366246,
+    "read_only": false,
+    "read_only_alternatives": []
+}
